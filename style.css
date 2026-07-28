@@ -16,7 +16,7 @@ body {
 }
 
 .logo-placeholder {
-   ..na-logo {
+   .na-logo {
     width: 100px;
     height: 100px;
     object-fit: contain;
