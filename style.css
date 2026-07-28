@@ -113,3 +113,12 @@ footer {
 
 
 }
+.na-logo {
+    display: block;
+    width: 80px !important;
+    height: 80px !important;
+    max-width: 80px !important;
+    max-height: 80px !important;
+    object-fit: contain;
+    margin: 0 auto 25px;
+}
